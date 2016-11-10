@@ -12,7 +12,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
-
+    //用SimpleAdapter 設定listview格式
+    
     String[] fruits = {"鳳梨", "草莓", "蘋果", "葡萄"};
     String[] cities = {"台北", "台中", "台南", "高雄"};
     String[] codes = {"02", "04", "06", "07"};
